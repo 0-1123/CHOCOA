@@ -1,0 +1,43 @@
+.navbar-brand {
+  font-family: Calistoga;
+  font-size: 38px;
+  line-height: 28px;
+}
+
+.cart-icon {
+  font-size: 30px;
+  color: #542916;
+}
+
+.dropdown-menu {
+  width: 300px;
+}
+
+.brand-name {
+  color: #542916;
+}
+
+.slogan {
+  font-size: 22px;
+  font-family: Amatic SC;
+  font-weight: bold;
+  color: #e6a441;
+}
+
+@media (max-width: 405px) {
+  .slogan {
+    display: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .dropdown-menu {
+    width: 240px;
+  }
+}
+
+@media (max-width: 300px) {
+  .navbar-name {
+    display: none;
+  }
+}

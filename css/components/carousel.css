@@ -1,0 +1,23 @@
+.carousel-picture {
+  height: 80vh;
+  object-fit: cover;
+}
+
+.details-icon {
+  font-size: 50px;
+  color: #e6a441;
+  text-shadow: 0 0 2px rgba(0,0,0,0.4);
+}
+
+.carousel-caption {
+  text-shadow: 0 0 3px rgba(0,0,0,0.7);
+}
+
+.dark-filter {
+  filter: brightness(0.5);
+}
+
+.carousel-caption h2 {
+  font-family: Calistoga;
+  font-size: 40px;
+}

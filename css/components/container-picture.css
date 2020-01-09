@@ -1,0 +1,23 @@
+.bottom-image {
+  display: none;
+}
+
+.side-image {
+  height: 80vh;
+}
+
+.box-picture {
+  border-bottom: 1px solid rgb(200,200,200);
+}
+
+@media all and (max-width: 995px)  {
+  .side-image {
+    display: none;
+  }
+  .bottom-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+}

@@ -1,0 +1,16 @@
+@import url("components/carousel.css");
+@import url("components/navbar.css");
+@import url("components/card.css");
+@import url("components/container-picture.css");
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Calistoga|Neucha|Patrick+Hand&display=swap');
+
+h1 {
+  color: #542916;
+  font-family: Calistoga;
+  font-weight: lighter;
+}
+
+p {
+  hyphens: auto;
+  text-align: justify
+}
